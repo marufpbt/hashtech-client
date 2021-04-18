@@ -1,0 +1,9 @@
+.case-container {
+	min-height: 500px;
+	background: url(../../../images/contact-bg.jpg);
+}
+
+.case-primary {
+	font-weight: 700;
+	font-size: 15px;
+}
